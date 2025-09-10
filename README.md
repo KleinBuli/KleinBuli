@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**KleinBuli/KleinBuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ❤️ » Admin of AntikiaMC.de
+- ⌨️ » Mostly doing Java
+- 📚 » CyberSecurity Student at DHBW Mannheim
 
-Here are some ideas to get you started:
+## ⚡My Setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)
+
+### Tools and Services
+
+[![My Skills](https://skillicons.dev/icons?i=idea,clion,pycharm,github,discord,linux,windows,maven,mongodb,mysql)](https://skillicons.dev)
+
+### Social Media
+
+[![My Skills](https://skillicons.dev/icons?i=instagram,twitter,discord)](https://skillicons.dev)
