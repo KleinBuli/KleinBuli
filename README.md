@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-- ❤️ » Admin of AntikiaMC.de
+- ❤️ » Admin of KleinerGedankeNET
 - ⌨️ » Mostly doing Java
 - 📚 » CyberSecurity Student at DHBW Mannheim
 
