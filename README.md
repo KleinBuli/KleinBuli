@@ -1,8 +1,7 @@
 ## 👋 About Me
 
-- ❤️ » Admin of KleinerGedankeNET
 - ⌨️ » Mostly doing Java
-- 📚 » CyberSecurity Student at DHBW Mannheim
+- 📚 » CyberSecurity Student
 
 ## ⚡My Setup
 
