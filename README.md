@@ -6,7 +6,7 @@
 ## ⚡My Setup
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,python)](https://skillicons.dev)
 
 ### Tools and Services
 
