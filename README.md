@@ -1,17 +1,41 @@
-## 👋 About Me
+# Hey, I'm Buli 👋
 
-- ⌨️ » Mostly doing Java
-- 📚 » CyberSecurity Student
+Cyber Security student from Germany with a strong interest in software development, backend systems and networking.
 
-## ⚡My Setup
+I mainly work with **Java** and **Rust**, but I also use Python for smaller tools and automation.
+
+## 🧑‍💻 What I'm currently working on
+
+- ☁️ **BuliCloud** — a Minecraft cloud system written in Rust
+- 🌐 Networking and system-level projects
+- 🔐 Cyber Security topics and security automation
+- 🦀 Learning more about asynchronous and concurrent Rust
+
+## 🛠 Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,rust,python)](https://skillicons.dev)
 
-### Tools and Services
+[![Languages](https://skillicons.dev/icons?i=rust,java,python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,clion,pycharm,github,discord,linux,windows,maven,mongodb,mysql)](https://skillicons.dev)
+### Technologies & Tools
 
-### Social Media
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,mysql,mongodb,maven,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=instagram,twitter,discord)](https://skillicons.dev)
+### Development
+
+[![Development](https://skillicons.dev/icons?i=idea,pycharm,vscode)](https://skillicons.dev)
+
+## 🚀 Interests
+
+```text
+Backend Development
+Cyber Security
+Networking
+Distributed Systems
+Minecraft Infrastructure
+System Programming
+```
+
+---
+
+> I like building things to understand how they work.
