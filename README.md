@@ -1,4 +1,4 @@
-# Hey, I'm Buli 👋
+# Hey, I'm Julian 👋
 
 Cyber Security student from Germany with a strong interest in software development, backend systems and networking.
 
